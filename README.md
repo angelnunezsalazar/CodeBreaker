@@ -1,4 +1,4 @@
 CodeBreaker
 ===========
 
-CodeBreaker kata using RSpec y Cucumber
+Code Kata using RSpec y Cucumber
